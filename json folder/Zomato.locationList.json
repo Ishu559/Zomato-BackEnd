@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b2f"
+  },
+  "id": 1,
+  "name": "New York",
+  "state": "New York",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b30"
+  },
+  "id": 2,
+  "name": "Los Angeles",
+  "state": "California",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b31"
+  },
+  "id": 3,
+  "name": "Chicago",
+  "state": "Illinois",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b32"
+  },
+  "id": 4,
+  "name": "Houston",
+  "state": "Texas",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b33"
+  },
+  "id": 5,
+  "name": "Phoenix",
+  "state": "Arizona",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b34"
+  },
+  "id": 6,
+  "name": "Philadelphia",
+  "state": "Pennsylvania",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b35"
+  },
+  "id": 7,
+  "name": "San Antonio",
+  "state": "Texas",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b36"
+  },
+  "id": 8,
+  "name": "San Diego",
+  "state": "California",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b37"
+  },
+  "id": 9,
+  "name": "Dallas",
+  "state": "Texas",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b38"
+  },
+  "id": 10,
+  "name": "San Jose",
+  "state": "California",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b39"
+  },
+  "id": 11,
+  "name": "Austin",
+  "state": "Texas",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b3a"
+  },
+  "id": 12,
+  "name": "Jacksonville",
+  "state": "Florida",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b3b"
+  },
+  "id": 13,
+  "name": "Fort Worth",
+  "state": "Texas",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b3c"
+  },
+  "id": 14,
+  "name": "Columbus",
+  "state": "Ohio",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b3d"
+  },
+  "id": 15,
+  "name": "Indianapolis",
+  "state": "Indiana",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b3e"
+  },
+  "id": 16,
+  "name": "Charlotte",
+  "state": "North Carolina",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b3f"
+  },
+  "id": 17,
+  "name": "San Francisco",
+  "state": "California",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b40"
+  },
+  "id": 18,
+  "name": "Seattle",
+  "state": "Washington",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b41"
+  },
+  "id": 19,
+  "name": "Denver",
+  "state": "Colorado",
+  "country": "USA"
+},
+{
+  "_id": {
+    "$oid": "6753e3f64451b096545d2b42"
+  },
+  "id": 20,
+  "name": "Washington, D.C.",
+  "state": "District of Columbia",
+  "country": "USA"
+}]

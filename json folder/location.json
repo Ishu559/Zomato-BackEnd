@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "New York",
+        "state": "New York",
+        "country": "USA"
+    },
+    {
+        "id": 2,
+        "name": "Los Angeles",
+        "state": "California",
+        "country": "USA"
+    },
+    {
+        "id": 3,
+        "name": "Chicago",
+        "state": "Illinois",
+        "country": "USA"
+    },
+    {
+        "id": 4,
+        "name": "Houston",
+        "state": "Texas",
+        "country": "USA"
+    },
+    {
+        "id": 5,
+        "name": "Phoenix",
+        "state": "Arizona",
+        "country": "USA"
+    },
+    {
+        "id": 6,
+        "name": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "USA"
+    },
+    {
+        "id": 7,
+        "name": "San Antonio",
+        "state": "Texas",
+        "country": "USA"
+    },
+    {
+        "id": 8,
+        "name": "San Diego",
+        "state": "California",
+        "country": "USA"
+    },
+    {
+        "id": 9,
+        "name": "Dallas",
+        "state": "Texas",
+        "country": "USA"
+    },
+    {
+        "id": 10,
+        "name": "San Jose",
+        "state": "California",
+        "country": "USA"
+    },
+    {
+        "id": 11,
+        "name": "Austin",
+        "state": "Texas",
+        "country": "USA"
+    },
+    {
+        "id": 12,
+        "name": "Jacksonville",
+        "state": "Florida",
+        "country": "USA"
+    },
+    {
+        "id": 13,
+        "name": "Fort Worth",
+        "state": "Texas",
+        "country": "USA"
+    },
+    {
+        "id": 14,
+        "name": "Columbus",
+        "state": "Ohio",
+        "country": "USA"
+    },
+    {
+        "id": 15,
+        "name": "Indianapolis",
+        "state": "Indiana",
+        "country": "USA"
+    },
+    {
+        "id": 16,
+        "name": "Charlotte",
+        "state": "North Carolina",
+        "country": "USA"
+    },
+    {
+        "id": 17,
+        "name": "San Francisco",
+        "state": "California",
+        "country": "USA"
+    },
+    {
+        "id": 18,
+        "name": "Seattle",
+        "state": "Washington",
+        "country": "USA"
+    },
+    {
+        "id": 19,
+        "name": "Denver",
+        "state": "Colorado",
+        "country": "USA"
+    },
+    {
+        "id": 20,
+        "name": "Washington, D.C.",
+        "state": "District of Columbia",
+        "country": "USA"
+    }
+]
